@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="beatrix-logo-test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.85742188"
+     inkscape:cx="310.23235"
+     inkscape:cy="351.05239"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="256,0"
+       end_point="256,512"
+       center_point="256,256"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="273.4943,-73.575825"
+       end_point="273.4943,438.42417"
+       center_point="273.4943,182.42417"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="256,-50.250085"
+       end_point="256,461.74991"
+       center_point="256,205.74991"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g5"
+       inkscape:path-effect="#path-effect6">
+      <path
+         id="path5"
+         style="fill:#f3f0e7;fill-opacity:1;stroke-width:0.961244"
+         d="m 76.391803,133.2003 88.785557,88.78558 -88.785547,88.78555 z m 359.216397,0 -88.78556,88.78558 88.78555,88.78555 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="m 76.391803,133.2003 88.785557,88.78558 -88.785547,88.78555 z" />
+      <path
+         id="path4"
+         style="fill:#ccc5b9;fill-opacity:1;stroke-width:1.0812"
+         d="m 96.218678,77.218523 99.865292,99.865297 -99.865282,99.86527 z m 319.562642,0 -99.86529,99.865297 99.86528,99.86527 z"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 96.218678,77.218523 196.08397,177.08382 96.218688,276.94909 Z" />
+      <path
+         id="rect4"
+         style="fill:#403d39;stroke-width:1.35268"
+         d="M 114.58771,7.8244444 239.52817,132.76491 114.58771,257.70536 Z m 282.82458,0 L 272.47183,132.76491 397.41229,257.70536 Z"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 114.58771,7.8244444 239.52817,132.76491 114.58771,257.70536 Z" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#eb5e28"
+       d="M 257.02247,109.43917 453.92547,306.25009 256,504.17556 58.074535,306.25009 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect2"
+       style="fill:#252422;stroke-width:0.202083"
+       d="M 256,424.18069 295.99743,464.17813 256,504.17556 216.00257,464.17813 Z" />
+    <path
+       id="rect3"
+       style="fill:#403d3f;stroke-width:0.928926"
+       d="M 98.551256,212.26424 214.59681,254.25057 98.551256,299.73576 58.07453,256 Z m 314.897484,0 -116.04555,41.98633 116.04555,45.48519 L 453.92547,256 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:path-effect="#path-effect3"
+       inkscape:original-d="M 98.551256,212.26424 214.59681,254.25057 98.551256,299.73576 58.07453,256 Z"
+       transform="translate(0,50.250085)" />
+  </g>
+</svg>
