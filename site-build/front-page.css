@@ -18,28 +18,10 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 30px;
-}
 
-#frontpage-links>h2 {
     animation: unfrost 400ms ease-out 800ms 1 normal forwards;
     filter: blur(5px);
     -webkit-filter: blur(5px);
-}
-
-#frontpage-links:nth-child(1) {
-    animation-delay: 800ms;
-}
-
-#frontpage-links:nth-child(2) {
-    animation-delay: 1000ms;
-}
-
-#frontpage-links:nth-child(3) {
-    animation-delay: 1200ms;
-}
-
-#frontpage-links:nth-child(4) {
-    animation-delay: 1400ms;
 }
 
 h1 {
