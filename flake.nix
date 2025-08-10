@@ -30,7 +30,8 @@
         packages = (
           with pkgs;
           [
-            hugo
+            pandoc
+            gnumake
             cargo
             rustup
           ]
