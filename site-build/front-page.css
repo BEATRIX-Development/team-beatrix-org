@@ -72,13 +72,17 @@ h1:nth-of-type(4) {
 }
 
 @keyframes unfrost {
-    from {
+    0% {
         -webkit-filter: blur(5px);
         filter: blur(5px)
     }
 
-    to {
+    99% {
         -webkit-filter: blur(0px);
         filter: blur(0px)
+    }
+
+    100% {
+        -webkit-filter: none;
     }
 }
