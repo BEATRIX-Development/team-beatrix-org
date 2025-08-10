@@ -23,21 +23,22 @@ body {
 #frontpage-links>h2 {
     animation: unfrost 400ms ease-out 800ms 1 normal forwards;
     filter: blur(5px);
+    -webkit-filter: blur(5px);
 }
 
-#frontpage-links>h2:nth-child(1) {
+#frontpage-links:nth-child(1) {
     animation-delay: 800ms;
 }
 
-#frontpage-links>h2:nth-child(2) {
+#frontpage-links:nth-child(2) {
     animation-delay: 1000ms;
 }
 
-#frontpage-links>h2:nth-child(3) {
+#frontpage-links:nth-child(3) {
     animation-delay: 1200ms;
 }
 
-#frontpage-links>h2:nth-child(4) {
+#frontpage-links:nth-child(4) {
     animation-delay: 1400ms;
 }
 
@@ -46,6 +47,7 @@ h1 {
     font-weight: 800;
     font-style: italic;
     animation: unfrost 400ms ease-out 0ms 1 normal forwards;
+    -webkit-filter: blur(5px);
     filter: blur(5px);
 }
 
@@ -71,10 +73,12 @@ h1:nth-of-type(4) {
 
 @keyframes unfrost {
     from {
+        -webkit-filter: blur(5px);
         filter: blur(5px)
     }
 
     to {
+        -webkit-filter: blur(0px);
         filter: blur(0px)
     }
 }
