@@ -5,5 +5,5 @@ test:
 	$(foreach \
 		file, \
 		$(md-files), \
-		pandoc --standalone $(file) -o $(addprefix ../site-build/,$(patsubst %.md,%.html,$(file))) \
+		pandoc --template template.html --standalone $(file) -o $(addprefix ../site-build/,$(patsubst %.md,%.html,$(file))) \
 	)
