@@ -6,7 +6,7 @@ css:
  - styles.css
 ---
 
-![](beatrix-logo-test.svg){ width=200px }
+![](site-build/beatrix-logo-test.svg){ width=200px }
 
 # BEATRIX
 # BÉATRIX
