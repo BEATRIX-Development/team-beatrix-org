@@ -6,7 +6,7 @@ css:
  - styles.css
 ---
 
-![](site-build/beatrix-logo-test.svg){ width=200px }
+<img src="site-build/beatrix-logo-test.svg" width="200" alt="Beatrix the Fox">
 
 # BEATRIX
 # BÉATRIX
